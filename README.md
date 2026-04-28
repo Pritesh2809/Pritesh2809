@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pritesh2809
 - 👀 I’m interested in Full stack development and Visual media prodection 
-- 🌱 I’m currently learning Advanced Java and Blender
+- 🌱 I’m currently learning GCP and Blender
 - 💞️ I’m looking to collaborate on Full stack Projects
 - 📫 How to reach me Dm me on Linkedin
 - 😄 Pronouns: Something is better than Nothing
