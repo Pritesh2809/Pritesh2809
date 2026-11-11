@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full stack Projects
 - 📫 How to reach me Dm me on Linkedin
 - 😄 Pronouns: Something is better than Nothing
-- ⚡ Fun fact: I an a youtuber😅
+- ⚡ Fun fact: I am a youtuber😅
 
 <!---
 Pritesh2809/Pritesh2809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
